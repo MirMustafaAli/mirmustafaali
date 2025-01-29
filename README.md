@@ -75,7 +75,7 @@ I'm a Data Scientist with 4+ years of experience building scalable, production-g
 
 ## 📫 Connect With Me
 - Email: mirmustafaali95@gmail.com
-- LinkedIn: [MirMustafaAli](https://linkedin.com/in/MirMustafaAli)
+- LinkedIn: [MirMustafaAli](https://www.linkedin.com/in/alimirmustafa/)
 - Location: Arlington, TX
 
  *Currently seeking opportunities in Machine Learning Engineering and Data Science roles*
