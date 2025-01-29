@@ -21,7 +21,7 @@ I'm a Data Scientist with 4+ years of experience building scalable, production-g
 - Contributed to open-source development of COAT (Compressing Optimizer States and Activations)
 - Implemented memory-efficient FP8 training utilizing dynamic range expansion
 - Enhanced float8 data type utilization during training processes
-- [View Project](https://github.com/yourusername/coat-optimizer)
+- [View Project](https://github.com/pytorch/ao/pull/1231)
 
 ### 3D Heat Equation Solver
 *C, MPI, OpenMP*
@@ -29,14 +29,16 @@ I'm a Data Scientist with 4+ years of experience building scalable, production-g
 - Implemented multi-node computation across X, Y, and Z dimensions
 - Conducted comprehensive scaling analysis on UTA cluster
 - Achieved significant performance improvements through parallel processing
-- [View Project](https://github.com/yourusername/3d-heat-equation)
+<!---
+- [View Project]()
+-->
 
 ### Matrix Multiplication Optimization
 *C, Cache Optimization*
 - Optimized single-core matrix multiplication using advanced algorithms
 - Achieved 50%+ of theoretical GFLOPS through cache optimization
 - Implemented Goto and Van de Geijn algorithm with six loop orderings
-- [View Project](https://github.com/yourusername/matrix-multiplication)
+
 
 ### Distributed Systems Implementation
 *Python, Node.js, gRPC*
@@ -46,7 +48,8 @@ I'm a Data Scientist with 4+ years of experience building scalable, production-g
   - Decentralized & Distributed Locking
   - Vector Clocks & Lamport's Logical Clock
 - Created cross-language compatible distributed store
-- [View Project](https://github.com/yourusername/distributed-systems)
+- [View Project](https://github.com/MirMustafaAli/UTA-CSE5306)
+
 
 ## 💼 Professional Experience
 
