@@ -60,15 +60,17 @@ I'm a Data Scientist with 4+ years of experience building scalable, production-g
 
 ### Senior Data Scientist | Aptus Data Labs
 *(Mar 2022 - Jan 2023)*
-- Revolutionized pharma report analysis using BERT Zero-Shot Classification
-- Reduced report evaluation cycle from 1 month to 1 week
+- Led a team on automating pharmaceutical report analysis via combination of heuristics with the collaboration of subject matter experts and BERT Zero-Shot Classification.
+- Reduced the report evaluation process from 1 month to 1 week.
 - Implemented dynamic PROMPT/LABEL techniques
 
 ### Associate Consultant | CoffeeBeans Consulting
 *(Jan 2019 - Jan 2022)*
-- Developed 8ms FAISS vector-similarity API
-- Improved CTR from 1.5 to 1.8 using SparkML clustering
-- Implemented GRU-based NER with 82% accuracy
+- Deployed prediction model on News Articles  predicting the top 10 articles published on platform for the day with 80% accuracy.
+- Reducing load on Redis, Kafka, and MongoDB by developing FAISS vector-similarity API  with a scalable design providing sub 8ms response time.
+- Leveraged SparkML clustering algorithms for segmented recommendations on News article platform which boosted the average CTR from 1.5 to 1.8.
+- Implemented real time preprocessing services using Faust( a python streaming library) which reduced preprocessing cost by 50%.
+- Consulted a title insurance organization as deep learning engineer to Train and Deployed a GRU-based NER model on Property legal docs by collaborating with domain experts, achieving 82% accuracy and reduced training time by 30% with PyTorch DDP on multi GPU system.
 - Built scalable model-serving pipelines using TorchServe
 
 ## 📫 Connect With Me
