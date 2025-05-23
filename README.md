@@ -3,20 +3,31 @@
 
 I'm a Data Scientist with 4+ years of experience building scalable, production-grade AI and deep learning systems. My expertise spans across insurance, retail, and media industries, with a focus on optimizing model performance and integrating end-to-end machine learning pipelines.
 
-## 🎓 Education
-- **M.S. in Computer Science** | University of Texas at Arlington *(2023 - 2024)*
-- **B.E. in Information Science and Engineering** | Visvesvaraya Technological University *(2013 - 2018)*
 
-## 🌟 Core Competencies
-- **Machine Learning & Deep Learning**: Production-grade ML systems, BERT, GRU, LSTM
-- **Distributed Computing**: Parallel Processing, Multi-node Systems, GPU Programming
-- **Big Data Processing**: Apache Spark, Kafka, Redis, MongoDB
-- **MLOps**: Docker, Kubernetes, AWS, GCP, Azure
-- **Languages & Frameworks**: Python, C/C++, PyTorch, TensorFlow, CUDA
-- **GPU Kernel Libraries** : CUDA, HIP, ROCM, CUTLASS. 
+## 💼 Professional Experience
+
+### Research Assistant | UTA Research Institute
+*(Sep 2023 - Jan 2024)*
+- Engineered an LSTM-based model for smartwatch health analytics with 92%  accuracy and 22% fewer false positives in fall detection across open source medical datasets. 
+- Integrated MLFLOW and pytorch lightning to boost reproducibility and reduce hyperparameter tuning time by 20%.
+
+### Senior Data Scientist | Aptus Data Labs
+*(Mar 2022 - Jan 2023)*
+- Led a team on automating pharmaceutical report analysis via combination of heuristics with the collaboration of subject matter experts and BERT Zero-Shot Classification.
+- Reduced the report evaluation process from 1 month to 1 week.
+- Built an end-to-end ML pipeline on Microsoft Azure, deploying trained models with total sub 1 min inference latency, improving processing speed for real-time applications.
+
+### Associate Consultant | CoffeeBeans Consulting
+*(Jan 2019 - Jan 2022)*
+- Deployed prediction model on News Articles  predicting the top 10 articles published on platform for the day with 80% accuracy.
+- Reducing load on Redis, Kafka, and MongoDB by developing FAISS vector-similarity API  with a scalable design providing sub 8ms response time.
+- Leveraged SparkML clustering algorithms for segmented recommendations on News article platform which boosted the average CTR from 1.5 to 1.8.
+- Implemented real time preprocessing services using Faust( a python streaming library) which reduced preprocessing cost by 50%.
+- Consulted a title insurance organization as deep learning engineer to Train and Deployed a GRU-based NER model on Property legal docs by collaborating with domain experts, achieving 82% accuracy and reduced training time by 30% with PyTorch DDP on multi GPU system.
+- Built scalable model-serving pipelines using TorchServe
+
 
 ## 🚀 Featured Projects
-
 
 ### AMD Developer Challenge 2025:  [leaderboard](https://www.gpumode.com/)
 *HIP, triton, python, C*
@@ -58,27 +69,19 @@ I'm a Data Scientist with 4+ years of experience building scalable, production-g
 - [View Project](https://github.com/MirMustafaAli/UTA-CSE5306)
 
 
-## 💼 Professional Experience
 
-### Research Assistant | UTA Research Institute
-*(Sep 2023 - Jan 2024)*
-- Engineered an LSTM-based model for smartwatch health analytics with 92%  accuracy and 22% fewer false positives in fall detection across open source medical datasets. 
-- Integrated MLFLOW and pytorch lightning to boost reproducibility and reduce hyperparameter tuning time by 20%.
+## 🎓 Education
+- **M.S. in Computer Science** | University of Texas at Arlington *(2023 - 2024)*
+- **B.E. in Information Science and Engineering** | Visvesvaraya Technological University *(2013 - 2018)*
 
-### Senior Data Scientist | Aptus Data Labs
-*(Mar 2022 - Jan 2023)*
-- Led a team on automating pharmaceutical report analysis via combination of heuristics with the collaboration of subject matter experts and BERT Zero-Shot Classification.
-- Reduced the report evaluation process from 1 month to 1 week.
-- Built an end-to-end ML pipeline on Microsoft Azure, deploying trained models with total sub 1 min inference latency, improving processing speed for real-time applications.
+## 🌟 Core Competencies
+- **Machine Learning & Deep Learning**: Production-grade ML systems, BERT, GRU, LSTM
+- **Distributed Computing**: Parallel Processing, Multi-node Systems, GPU Programming
+- **Big Data Processing**: Apache Spark, Kafka, Redis, MongoDB
+- **MLOps**: Docker, Kubernetes, AWS, GCP, Azure
+- **Languages & Frameworks**: Python, C/C++, PyTorch, TensorFlow, CUDA
+- **GPU Kernel Libraries** : CUDA, HIP, ROCM, CUTLASS. 
 
-### Associate Consultant | CoffeeBeans Consulting
-*(Jan 2019 - Jan 2022)*
-- Deployed prediction model on News Articles  predicting the top 10 articles published on platform for the day with 80% accuracy.
-- Reducing load on Redis, Kafka, and MongoDB by developing FAISS vector-similarity API  with a scalable design providing sub 8ms response time.
-- Leveraged SparkML clustering algorithms for segmented recommendations on News article platform which boosted the average CTR from 1.5 to 1.8.
-- Implemented real time preprocessing services using Faust( a python streaming library) which reduced preprocessing cost by 50%.
-- Consulted a title insurance organization as deep learning engineer to Train and Deployed a GRU-based NER model on Property legal docs by collaborating with domain experts, achieving 82% accuracy and reduced training time by 30% with PyTorch DDP on multi GPU system.
-- Built scalable model-serving pipelines using TorchServe
 
 ## 📫 Connect With Me
 - Email: mirmustafaali95@gmail.com
