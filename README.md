@@ -13,10 +13,17 @@ I'm a Data Scientist with 4+ years of experience building scalable, production-g
 - **Big Data Processing**: Apache Spark, Kafka, Redis, MongoDB
 - **MLOps**: Docker, Kubernetes, AWS, GCP, Azure
 - **Languages & Frameworks**: Python, C/C++, PyTorch, TensorFlow, CUDA
+- **GPU Kernel Libraries** : CUDA, HIP, ROCM, CUTLASS. 
 
 ## 🚀 Featured Projects
 
-### COAT Optimizer for TorchAO
+
+### AMD Developer Challenge 2025:  [leaderboard](https://www.gpumode.com/)
+*HIP, triton, python, C*
+- Top 30 IN FP8 Gemm current leaderboard using HIP, Rocm on AMD Mi300x GPU
+- Top 10 in Mixture of Expert kernel current leaderboard using Triton Language
+
+### Open Source Contribution: COAT Optimizer for TorchAO
 *Python, PyTorch, Float8 Optimization(In Progress)*
 - Contributed to open-source development of COAT (Compressing Optimizer States and Activations)
 - Implemented memory-efficient FP8 training utilizing dynamic range expansion
@@ -55,14 +62,14 @@ I'm a Data Scientist with 4+ years of experience building scalable, production-g
 
 ### Research Assistant | UTA Research Institute
 *(Sep 2023 - Jan 2024)*
-- Engineered LSTM models for smartwatch analytics
-- Implemented robust fall detection systems using PyTorch Lightning and MLFlow
+- Engineered an LSTM-based model for smartwatch health analytics with 92%  accuracy and 22% fewer false positives in fall detection across open source medical datasets. 
+- Integrated MLFLOW and pytorch lightning to boost reproducibility and reduce hyperparameter tuning time by 20%.
 
 ### Senior Data Scientist | Aptus Data Labs
 *(Mar 2022 - Jan 2023)*
 - Led a team on automating pharmaceutical report analysis via combination of heuristics with the collaboration of subject matter experts and BERT Zero-Shot Classification.
 - Reduced the report evaluation process from 1 month to 1 week.
-- Implemented dynamic PROMPT/LABEL techniques
+- Built an end-to-end ML pipeline on Microsoft Azure, deploying trained models with total sub 1 min inference latency, improving processing speed for real-time applications.
 
 ### Associate Consultant | CoffeeBeans Consulting
 *(Jan 2019 - Jan 2022)*
