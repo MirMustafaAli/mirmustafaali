@@ -6,7 +6,11 @@ I'm a Data Scientist with 4+ years of experience building scalable, production-g
 
 ## 💼 Professional Experience
 
-### Research Assistant | UTA Research Institute
+### Research Volunteer | University of Texas Arlington
+*(Feb 2025 - Present)*
+- Working on user-space networks to accelerate packet processing on high-end NICs.
+
+### Research Assistant | University of Texas Arlington Research Institute
 *(Sep 2023 - Jan 2024)*
 - Engineered an LSTM-based model for smartwatch health analytics with 92%  accuracy and 22% fewer false positives in fall detection across open source medical datasets. 
 - Integrated MLFLOW and pytorch lightning to boost reproducibility and reduce hyperparameter tuning time by 20%.
@@ -29,10 +33,11 @@ I'm a Data Scientist with 4+ years of experience building scalable, production-g
 
 ## 🚀 Featured Projects
 
-### AMD Developer Challenge 2025:  [leaderboard](https://www.gpumode.com/)
+### AMD Developer Challenge 2025:
 *HIP, triton, python, C*
 - Top 30 IN FP8 Gemm current leaderboard using HIP, Rocm on AMD Mi300x GPU
 - Top 10 in Mixture of Expert kernel current leaderboard using Triton Language
+- [leaderboard](https://www.gpumode.com/)
 
 ### Open Source Contribution: COAT Optimizer for TorchAO
 *Python, PyTorch, Float8 Optimization(In Progress)*
