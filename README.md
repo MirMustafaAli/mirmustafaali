@@ -11,7 +11,7 @@ I'm a Data Scientist with 4+ years of experience building scalable, production-g
 - Engineered an LSTM-based model for smartwatch health analytics with 92%  accuracy and 22% fewer false positives in fall detection across open source medical datasets. 
 - Integrated MLFLOW and pytorch lightning to boost reproducibility and reduce hyperparameter tuning time by 20%.
 
-### Senior Data Scientist | Aptus Data Labs
+### Senior Data Scientist | Aptus Data Labs Pvt Ltd
 *(Mar 2022 - Jan 2023)*
 - Led a team on automating pharmaceutical report analysis via combination of heuristics with the collaboration of subject matter experts and BERT Zero-Shot Classification.
 - Reduced the report evaluation process from 1 month to 1 week.
